@@ -1,0 +1,22 @@
+
+.stars img{
+    width: 600px;
+    height: 400px;
+    float: left;
+}
+
+.stripes1 {
+    float: right;
+}
+
+.red {
+    width: 2200px;
+    height: 52.8px;
+    background-color: red;
+}
+
+.white {
+    width: 2200px;
+    height: 52.8px;
+    background-color: white;
+}
